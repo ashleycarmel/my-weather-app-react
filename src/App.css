@@ -6,3 +6,15 @@ body {
   max-width: 800px;
   margin: 60px auto;
 }
+
+.App footer {
+  font-size: 14px;
+  margin-top: 40px;
+  line-height: 18px;
+  text-align: center;
+  color: rgba(39, 33, 66, 0.4);
+}
+
+.App footer a {
+  color: #885df1;
+}
